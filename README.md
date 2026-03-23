@@ -1,4 +1,4 @@
-# 🍔 Food Website Frontend
+#  Food Website Frontend
 
 ✨ A modern and responsive **Food Website UI** built using HTML & CSS.  
 This project showcases a beautiful design for a food ordering platform.
